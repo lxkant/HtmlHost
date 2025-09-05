@@ -1,1 +1,1 @@
-# HtmlHost
+To host public html files to testing js mobile bridge
